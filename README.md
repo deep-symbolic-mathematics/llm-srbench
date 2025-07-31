@@ -225,16 +225,16 @@ Read our [paper](https://arxiv.org/abs/2504.10415) for more information about th
 </pre>
 
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=deep-symbolic-mathematics/llm-srbench&type=Date)](https://www.star-history.com/#deep-symbolic-mathematics/llm-srbench&Date)
-
-
 ## License
 
 This repository is licensed under MIT licence.
 
 This work is built on top of other open source projects, including [LLM-SR](https://github.com/deep-symbolic-mathematics/llm-sr), [LaSR](https://github.com/trishullab/LibraryAugmentedSymbolicRegression.jl), [SGA](https://github.com/PingchuanMa/SGA), and [PySR](https://github.com/MilesCranmer/PySR), and is inspired by the effort behind [srbench](https://github.com/cavalab/srbench). We thank the original contributors of these works for open-sourcing their valuable source codes. 
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=deep-symbolic-mathematics/llm-srbench&type=Date)](https://www.star-history.com/#deep-symbolic-mathematics/llm-srbench&Date)
+
 
 
 ## Contact Us
