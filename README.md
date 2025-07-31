@@ -224,6 +224,12 @@ Read our [paper](https://arxiv.org/abs/2504.10415) for more information about th
 }
 </pre>
 
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=deep-symbolic-mathematics/llm-srbench&type=Date)](https://www.star-history.com/#deep-symbolic-mathematics/llm-srbench&Date)
+
+
 ## License
 
 This repository is licensed under MIT licence.
